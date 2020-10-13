@@ -3,7 +3,7 @@
 ## Description 
 This is an Azure quickstart sample terraform configuration based on ARM template *[201-vm-copy-index-loops](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-copy-index-loops)* from the repository *[azure\azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)*.
 
-This template allows you to create 'N' number of Virtual Machines in an availability set based on the 'numberOfInstances' parameter specified during the template deployment. This template also deploys a Storage Account, Virtual Network, 'N' number of Public IP addresses/Network Inerfaces/Virtual Machines, and it will deploy the following resources...
+This configuration allows you to create 'N' number of Virtual Machines in an availability set based on the 'numberOfInstances' parameter specified during the template deployment. This template also deploys a Storage Account, Virtual Network, 'N' number of Public IP addresses/Network Inerfaces/Virtual Machines, and it will deploy the following resources...
 
 ![output](resources.PNG)
 
